@@ -15,7 +15,7 @@ Dernier projet sur lequel j'ai travaillé :
 
 <details>
   <summary>English version 🇺🇸</summary>
-  Computer enthusiast, I'm trying to learn a lot of things and mainly at the moment :<br>
+  Computer science enthusiast, I'm trying to learn a lot of things and mainly at the moment :<br>
 - Rust (https://github.com/RedLeGamin/Hello-Rust)<br>
 - Typescript<br>
 - Docker<br>
