@@ -2,7 +2,7 @@
 
 Amateur d'informatique, j'essaye d'apprendre un max de trucs et principalement en ce moment :
 - [Rust](https://github.com/RedLeGamin/Hello-Rust)
-- Typescript
+- [TypeScript](https://github.com/RedLeGamin/valobot)
 - Docker
 - Outils de cybersécurité
 - [Et plein d'autres...](https://github.com/RedLeGamin/RedLeGamin/blob/main/TOLEARNLIST.md)
