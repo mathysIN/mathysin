@@ -1,4 +1,5 @@
-![sup! c'est moi, mathys 👋](https://user-images.githubusercontent.com/36484628/178942082-fb2e6a31-1f57-4425-bc54-1975c398fe1f.gif)
+![sup! c'est moi, mathys 👋](https://user-images.githubusercontent.com/36484628/214280864-2f454472-0a18-4868-ad84-cc24d204405a.gif)
+
 
 Amateur d'informatique, j'essaye d'apprendre un max de trucs et principalement en ce moment :
 - [Rust](https://github.com/RedLeGamin/Hello-Rust)
