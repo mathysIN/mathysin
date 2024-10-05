@@ -2,35 +2,29 @@
 
 
 Amateur d'informatique, j'essaye d'apprendre un max de trucs et principalement en ce moment :
-- [Rust](https://github.com/RedLeGamin/Hello-Rust)
-- [TypeScript](https://github.com/RedLeGamin/valobot)
-- Docker
-- Outils de cybersécurité
-- [Et plein d'autres...](https://github.com/RedLeGamin/RedLeGamin/blob/main/TOLEARNLIST.md)
+- Go
+- Comment construire un interpreteur
 
 Expériencé principalement en développement web, avec de nombreuses connaissances en architecture réseau et en création d'applications
 
 
-Dernier projet sur lequel j'ai travaillé :
+Derniers projets sur lequels j'ai travaillé :
+- [Copyman](https://copyman.fr)
+- [NuggetHub](https://nugget-hub.fr)
 - [MDTFinder](https://mdtfinder.fr)
 
 <details>
   <summary>English version 🇺🇸</summary>
   Computer science enthusiast, I'm trying to learn a lot of things and mainly at the moment :<br>
-- Rust (https://github.com/RedLeGamin/Hello-Rust)<br>
-- Typescript<br>
-- Docker<br>
-- Cybersecurity tools<br>
-- And a lot more... (https://github.com/RedLeGamin/RedLeGamin/blob/main/TOLEARNLIST.md)<br><br>
+- Go <br>
+- How to build a interpreter
 
 
 Experienced mainly in web development, with a lot of knowledge in network architecture and application creation<br><br>
 
 
-Last project I worked on :<br>
+Lasts projects I worked on :<br>
+- [Copyman](https://copyman.fr)
+- [NuggetHub](https://nugget-hub.fr)
 - [MDTFinder](https://mdtfinder.fr)
 </details>
-
-<!--
-*add memes here*
--->
