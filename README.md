@@ -4,7 +4,7 @@
 Amateur d'informatique, j'essaye d'apprendre un max de trucs et principalement en ce moment :
 
 - Go
-- Comment construire un compilateur
+- Vim motions
 
 Expériencé principalement en développement logiciel, avec de nombreuses connaissances en réseau.
 
@@ -18,7 +18,7 @@ Derniers projets personnels sur lequels j'ai travaillé :
   <summary>English version 🇺🇸</summary>
   Computer science enthusiast, I'm trying to learn a lot of things and mainly at the moment :<br>
 - Go <br>
-- How to build a compiler
+- Vim motions
 
 
 Experienced mainly in software development, with a lot of knowledge in networking<br><br>
